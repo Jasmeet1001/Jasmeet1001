@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jasmeet1001
-- 👀 I’m interested in game development, data science and game AI
+- 👀 I’m interested in game development, data science.
 - 🌱 I’m currently learning unity, python, C#
-- 💞️ I’m looking to collaborate on any game, open source project
 - 📫 How to reach me through js3393187@gmail.com
 
 <!---
