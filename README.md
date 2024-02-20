@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, django, python-FastAPI,
 - 📫 Reach me through js3393187@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jasmeet1001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jasmeet1001)](https://github.com/ryo-ma/github-profile-trophy&theme=gruvbox)
 
 <!---
 Jasmeet1001/Jasmeet1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
