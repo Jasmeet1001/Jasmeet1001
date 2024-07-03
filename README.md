@@ -22,10 +22,6 @@ I am a recent B.Tech graduate in Computer Science and Engineering, passionate ab
 
 Feel free to reach out to me via email at [js3393187@gmail.com](mailto:js3393187@gmail.com).
 
----
-
-This version is more structured and provides a clearer overview of your skills and interests.
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jasmeet1001&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
